@@ -29,8 +29,9 @@ Perangkat ini menggunakan NodeMCU yang menghasilkan output berupa 2 LED yang dap
    
 ### Board Schematic
 1. Design Schematic
-   ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+   ![alt text](https://github.com/Kuuhaku456/posttest1-praktikum-iot-unmul-2024/blob/main/Skematik.png)
 
 2. Our Schematic
+   ![alt text](https://github.com/Kuuhaku456/posttest1-praktikum-iot-unmul-2024/blob/main/our_schema.jpg)
 
 ### Link Video :  
