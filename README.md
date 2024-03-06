@@ -35,3 +35,5 @@ Perangkat ini menggunakan NodeMCU yang menghasilkan output berupa 2 LED yang dap
    ![alt text](https://github.com/Kuuhaku456/posttest1-praktikum-iot-unmul-2024/blob/main/our_schema.jpg)
 
 ### Link Video :  
+
+   [![Watch the video]](https://youtu.be/yRkGx6_hDXw)
